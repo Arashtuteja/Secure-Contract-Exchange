@@ -22,7 +22,8 @@ root/
 ┃ ┗ contract.txt → Sample contract file  
 ┣ keys/ 
 ┣ ┣ buyer_pub.pem 
-┣ ┣ hr_pub.pem 
+┣ ┣ hr_pub.pem
+┣ ┣ ss_pub.pem 
 ┣ ┗ hr_ss_session.bin
 ┣ appendix/  
 ┃ ┣ contract_encrypted_to_hr.bin  
